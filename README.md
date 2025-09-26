@@ -1,8 +1,8 @@
 # 048 Unit Testing
 ## Lecture
 
+[![# Unit Testing (Part 1)](https://img.youtube.com/vi/aRCXJ38q06o/0.jpg)](https://www.youtube.com/watch?v=aRCXJ38q06o)
 [![# Unit Testing (Part 2)](https://img.youtube.com/vi/aRCXJ38q06o/0.jpg)](https://www.youtube.com/watch?v=LEhGPRaf7Xk)
-[![# Unit Testing (Part 1)](https://img.youtube.com/vi/aRCXJ38q06o/0.jpg)](https://www.youtube.com/watch?v=LEhGPRaf7Xk)
 
 ## Instructions
 
