@@ -30,6 +30,8 @@ In this lesson you will be testing the method contained in `HomeEnergyApi/Servic
 ## Building toward CSTA Standards:
 
 ## Resources
-- https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/
+- https://en.wikipedia.org/wiki/Unit_testing
+- https://martinfowler.com/bliki/TestPyramid.html
+- https://xunit.net/
 
 Copyright &copy; 2025 Knight Moves. All Rights Reserved.
